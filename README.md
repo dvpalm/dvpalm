@@ -1,18 +1,29 @@
-### Hi, i'm Davide Palmiero👋
+<p>
+  <h1 align="center"><b>Hi, I'm Davide Palmiero</h1>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/davide-palmiero/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+</p>
+<br />
 
 <br>
+<p align="center">
+🌱 I’m currently learning Angular
+  <img align="center" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+</a>
+<br>
+⚡ Fun fact: i love to play guitar! 🎸
+</p>
+<br>
 
-- 🌱 I’m currently learning Angular
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/davide-palmiero/">
-  <img align="center" alt="Pawan's Linkdein" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a> <br>
- - ⚡ Fun fact: i love to play guitar!
 
-
-**Languages:** 
-
+<p align="center">
+<h1 align="center"> Languages and Tools </h1>
+<p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code></p>
+</p>
