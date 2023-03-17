@@ -10,8 +10,7 @@
 
 <br>
 <p align="center">
-🌱 I’m currently learning Angular
-  <img align="center" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+🌱 I’m currently learning Xamarin and C#!
 </a>
 <br>
 ⚡ Fun fact: i love to play guitar! 🎸
