@@ -3,7 +3,6 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/davide-palmiero/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
-<a href="https://dpalm.it/"><img src="https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=website&logoColor=white" alt="Linkedin" /></a>&nbsp;
   
 </p>
 <br />
